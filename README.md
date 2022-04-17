@@ -3,33 +3,56 @@
 I am a senior python developer with expertise in data engineering.
 
 ## Skills
-```
-- Python
-  - flask
-  - pandas
-  - numpy
-  - pytest
-- SQL
-  - postgres
-  - MSSQL
-  - SQLite
-- Docker
-- Google Cloud Platform
-  - Cloud Function
-  - Cloud Run
-  - Cloud Build
-  - Cloud SQL
-  - Pub/Sub
-  - Container Registry
-- Amazon Web Services
-  - Lambda
-  - EC2
-  - RDS
-  - SQS
-  - ECS
-- `Git`
-- `Postman`
-- `Heroku`
+```python
+class MySkills:
+    def __init__(self, name="michaelvdays"):
+        self.name = name
+    
+    @property
+    def python_skills(self):
+        return [
+            'flask',
+            'pandas',
+            'numpy',
+            'pytest',
+        ]
+
+    @property
+    def sql_skills(self):
+        return [
+            'postgres',
+            'MSSQL',
+            'SQLite',
+        ]
+        
+    @property
+    def gcp_skills(self):
+        return [
+            'Cloud Function',
+            'Cloud Run',
+            'Cloud Build',
+            'Cloud SQL',
+            'Pub/Sub',
+            'Container Registry',
+        ]
+        
+    @property
+    def aws_skills(self):
+        return [
+            'Lambda',
+            'EC2',
+            'RDS',
+            'SQS',
+            'ECS',
+        ]
+    @property
+    def other_skills(self):
+        return [
+            'Docker',
+            'Git',
+            'Postman',
+            'Heroku',
+        ]
 ```
 
 ## Projects
