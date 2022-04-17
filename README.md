@@ -1,38 +1,40 @@
-## michaelvdays
+# michaelvdays
 
 I am a senior python developer with expertise in data engineering.
 
-### Skills
+## Skills
 
-- Python
+
+- `Python`
   - flask
   - pandas
   - numpy
   - pytest
-- SQL
+- `SQL`
   - postgres
   - MSSQL
   - SQLite
-- Docker
-- Google Cloud Platform
+- `Docker`
+- `Google Cloud Platform`
   - Cloud Function
   - Cloud Run
   - Cloud Build
   - Cloud SQL
   - Pub/Sub
   - Container Registry
-- Amazon Web Services
+- `Amazon Web Services`
   - Lambda
   - EC2
   - RDS
   - SQS
   - ECS
-- Git
-- Postman
-- Heroku
+- `Git`
+- `Postman`
+- `Heroku`
 
-### Projects
+## Projects
 
+```
 - Multiple Complex ETL Systems
 - Media Asset Playlist Middleware (600+ devices)
 - Media Asset Storage & Delivery System
@@ -40,5 +42,6 @@ I am a senior python developer with expertise in data engineering.
 - Authorization Management API
 - National Provider Registry ETL Process
 - Real Time Processing of Image Metadata
+```
 
 [Email](mailto:michaelv@playwithmydata.com)
