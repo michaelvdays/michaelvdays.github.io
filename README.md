@@ -31,6 +31,7 @@ I am a senior python developer with expertise in data engineering.
 - `Git`
 - `Postman`
 - `Heroku`
+```
 
 ## Projects
 
