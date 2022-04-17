@@ -1,28 +1,27 @@
-# michaelvdays
+# About Me
 
 I am a senior python developer with expertise in data engineering.
 
 ## Skills
-
-
-- `Python`
+```
+- Python
   - flask
   - pandas
   - numpy
   - pytest
-- `SQL`
+- SQL
   - postgres
   - MSSQL
   - SQLite
-- `Docker`
-- `Google Cloud Platform`
+- Docker
+- Google Cloud Platform
   - Cloud Function
   - Cloud Run
   - Cloud Build
   - Cloud SQL
   - Pub/Sub
   - Container Registry
-- `Amazon Web Services`
+- Amazon Web Services
   - Lambda
   - EC2
   - RDS
@@ -34,7 +33,6 @@ I am a senior python developer with expertise in data engineering.
 ```
 
 ## Projects
-
 ```
 - Multiple Complex ETL Systems
 - Media Asset Playlist Middleware (600+ devices)
