@@ -1,8 +1,9 @@
-# About Me
+# michaelvdays
+## About Me
 
 I am a senior python developer with expertise in data engineering.
 
-## Skills
+### Skills
 ```python
 class MySkills:
     def __init__(self, name="michaelvdays"):
@@ -55,7 +56,7 @@ class MySkills:
         ]
 ```
 
-## Projects
+### Projects
 ```
 - Multiple Complex ETL Systems
 - Media Asset Playlist Middleware (600+ devices)
