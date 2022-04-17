@@ -6,6 +6,9 @@ I am a senior python developer with expertise in data engineering.
 ### Skills
 ```python
 class MySkills:
+    """
+    Documentation is a priority!!!
+    """
     def __init__(self, name="michaelvdays"):
         self.name = name
     
@@ -46,6 +49,7 @@ class MySkills:
             'SQS',
             'ECS',
         ]
+
     @property
     def other_skills(self):
         return [
@@ -53,6 +57,7 @@ class MySkills:
             'Git',
             'Postman',
             'Heroku',
+            'OpenAPI',
         ]
 ```
 
